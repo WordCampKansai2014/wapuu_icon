@@ -7,14 +7,17 @@ The image content of ja.wordpress.org official character "Wapuu" was prepared tw
 
 It is SVG and background transparent png. Please use synthesized in your icon in image creation software .
 
+"わぷー(Wapuu)" was designed by Kazuko Kaneuchi under GPL v2 license or any later version.
+
+------
+
 WordCamp Kansai 2014 被りやすいわぷーアイコン素材
 
 WordPress日本公式キャラクター「わぷー」でアイコンをデコレーションできるよう素材を2つ用意しました。
 
 SVGと背景透過pngですので、画像作成ソフトでご自分のアイコンに合成してお使いください。
 
-
-------  
+------
 
 ライセンスは WordPress ソフトウェアと同じく GPL バージョン 2 またはそれ以降の互換ライセンスとなり、プラグインやテーマ内での使用も可能です。
 
