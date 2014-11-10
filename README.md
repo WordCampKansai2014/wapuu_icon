@@ -1,13 +1,18 @@
 wapuu_icon
 ==========
 
-WordCamp Kansai 2014 suffer easy Wapuuｰicon.
+Wapuu material, by WordCamp Kansai 2014 team to put on top of faces or other objects.
 
-The image content of ja.wordpress.org official character "Wapuu" was prepared two so that the icon can be decoration.
+Wapuu is a official mascot character of ja.wordpress.org.
 
-It is SVG and background transparent png. Please use synthesized in your icon in image creation software .
+We release two different shapes in SVG & transparent PNG so that you can decorate human faces or any other things with this cute wapuu.
 
-"わぷー(Wapuu)" was designed by Kazuko Kaneuchi under GPL v2 license or any later version.
+See some examples here: https://www.google.com/search?tbm=isch&q=%E3%82%8F%E3%81%B7%E3%83%BC , http://jawordpressorg.github.io/wapuu/
+
+Download original Wapuu here: https://github.com/jawordpressorg/wapuu
+
+"わぷー(Wapuu)" has been created by Kazuko Kaneuchi.
+"わぷー(Wapuu)" is released under GPL v2 license or any later version.
 
 ------
 
@@ -16,6 +21,8 @@ WordCamp Kansai 2014 被りやすいわぷーアイコン素材
 WordPress日本公式キャラクター「わぷー」でアイコンをデコレーションできるよう素材を2つ用意しました。
 
 SVGと背景透過pngですので、画像作成ソフトでご自分のアイコンに合成してお使いください。
+
+オリジナルのわぷーレポジトリ： here: https://github.com/jawordpressorg/wapuu
 
 ------
 
